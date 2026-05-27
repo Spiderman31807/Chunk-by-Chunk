@@ -1,0 +1,246 @@
+{
+  "mod_elements": [
+    {
+      "name": "BorderData",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "border_data",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/BorderData.java"
+        ]
+      }
+    },
+    {
+      "name": "PlayerVariables",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "player_variables",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/PlayerVariables.java"
+        ]
+      }
+    },
+    {
+      "name": "BorderUtils",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "border_utils",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/BorderUtils.java"
+        ]
+      }
+    },
+    {
+      "name": "ChunkCommand",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "chunk_command",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/ChunkCommand.java"
+        ]
+      }
+    },
+    {
+      "name": "ManagerButton",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "manager_button",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/ManagerButton.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "ManagerScreen",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "manager_screen",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/ManagerScreen.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "ManagerMenu",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "manager_menu",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/ManagerMenu.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "ChunkByChunkMenus",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "chunk_by_chunk_menus",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/ChunkByChunkMenus.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "ChunkByChunkScreens",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "chunk_by_chunk_screens",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/ChunkByChunkScreens.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "ChunkMiniMap",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "chunk_mini_map",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/ChunkMiniMap.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "Keybinds",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "keybinds",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/Keybinds.java"
+        ]
+      }
+    },
+    {
+      "name": "KeyMessage",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "key_message",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/KeyMessage.java"
+        ]
+      }
+    },
+    {
+      "name": "ConfiUtils",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "confi_utils",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/ConfiUtils.java"
+        ]
+      }
+    },
+    {
+      "name": "Events",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "events",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/Events.java"
+        ]
+      }
+    },
+    {
+      "name": "Settings",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "settings",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/Settings.java"
+        ]
+      }
+    },
+    {
+      "name": "Configs",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "configs",
+      "metadata": {
+        "files": [
+          "src/main/java/chunkbychunk/Configs.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "chuckbychunk.levels": "Chunk Points:",
+      "chunkbychunk.mini_map": "Chunk Mini Map",
+      "chunkbychunk.toggle": "Toggle Chunk Restrictions",
+      "chunkbychunk.off": "off",
+      "chuckbychunk.next_level": "Next Chunk Point:",
+      "chunkbychunk.toggled": "Chunk restrictions toggled: ",
+      "chunkbychunk.manager": "Chunk Manager",
+      "chunkbychunk.on": "on"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "GUI",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "chunkbychunk",
+    "modName": "ChunkByChunk",
+    "version": "1.0.4",
+    "description": "Play the Game 1 Chuck at a Time, spend XP to Unlock new Chunks",
+    "author": "Spiderman318",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/unlockable-chunks",
+    "license": "GNU Lesser General Public License version 3 (LGPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Spiderman31807",
+    "modElementsPackage": "chunkbychunk"
+  },
+  "mcreatorVersion": 202400232117
+}
